@@ -1,0 +1,2 @@
+Prefix plugins/UMAP/example
+Plugin UMAP inputfile parameters.txt outputfile output.pdf

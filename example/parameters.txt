@@ -1,0 +1,7 @@
+csvfile	mydata.csv
+features	features.txt
+categories	catfiles.txt
+variables	12
+numneighbors	15
+mindist	1
+spread	5

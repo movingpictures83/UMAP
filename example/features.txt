@@ -1,0 +1,12 @@
+calories
+protein
+fat
+sodium
+fiber
+carbo
+sugars
+potass
+vitamins
+weight
+cups
+rating
