@@ -1,3 +1,9 @@
+if(!(require(ggplot2))) install.packages("ggplot2")
+if(!(require(ggrepel))) install.packages("ggrepel")
+if(!(require(cowplot))) install.packages("cowplot")
+if(!(require(plspm))) install.packages("plspm")
+if(!(require(uwot))) install.packages("uwot")
+
 library(ggplot2)
 library(ggrepel)
 library(cowplot)
