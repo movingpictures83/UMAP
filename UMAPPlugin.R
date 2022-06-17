@@ -15,7 +15,7 @@ input <- function(inputfile) {
      pfix <- paste(pfix, "/", sep="")
   }
 
-mydata <- read.csv(paste(pfix, parameters["csvfile", 2], sep="/"))
+mydata <- read.csv(paste(pfix, parameters["csvfile", 2], sep="/"), check.names = FALSE)
 mydata <- as.data.frame(mydata)
 numeric_vars <- readLines(paste(pfix, parameters["features", 2], sep="/"))
 
