@@ -1,3 +1,5 @@
+installDependencies(c("ggplot2", "ggrepel", "cowplot", "plspm", "uwot"))
+
 library(ggplot2)
 library(ggrepel)
 library(cowplot)
